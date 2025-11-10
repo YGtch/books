@@ -1,3 +1,4 @@
+autotest
 import pytest
 
 
@@ -12,3 +13,4 @@ def test_sum(a, b, c):
 def test_file(file, text):
     with open(file) as data:
         assert data.read().strip() == text
+main
