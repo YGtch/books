@@ -1,5 +1,7 @@
+autotest
 ![Pytest](https://github.com/YGtch/books/actions/workflows/pytest.yml/badge.svg)
 ![[Test coverage](https://YGtch.github.io/books/badges/coverage.svg)](https://github.com/YGtch/books/actions)
+main
 # books
 ## Environment setup
 1. run
