@@ -1,3 +1,5 @@
 pre-commit
+autotest
 pytest
 pytest-cov
+main
