@@ -6,7 +6,7 @@
 
 ## Project aims
 The aim of our project is to create a books-club telegram bot for periodic novel publishing. Bot will collect a chapter from each participant and then
-on certain date will send them back all at ones. This type of book club is greate for writers for publishing their books among friends as well as for
+on certain date will send them back all at ones. This type of book club is great for writers for publishing their books among friends as well as for
 clubs exploring classical literature. For well known pieces syncronization with database will be added.
 
 Some other features for managing and comfortable usage are also planned.
