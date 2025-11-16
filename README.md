@@ -14,8 +14,8 @@ Some other features for managing and comfortable usage are also planned.
 ## Running tests
 For complete testing simply run
 
-```python -m pytest tests```
+```python3 -m pytest tests```
 
 To test a separate module run
 
-```python -m pytest tests/module```
+```python3 -m pytest tests/module```
